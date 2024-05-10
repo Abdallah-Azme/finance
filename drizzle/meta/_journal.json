@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715384745495,
+      "tag": "0000_tired_albert_cleary",
+      "breakpoints": true
+    }
+  ]
+}
